@@ -221,8 +221,6 @@ MAIL_PASSWORD="mypassword"
 
 ### To get started, run SECURITY.py file to register your face and to use it...  
 
-##### Watch the demo here 👇👇👇
-https://www.youtube.com/watch?v=tbw7VyBGSw0  
 
 ## Common Installation Issues  
 ```
